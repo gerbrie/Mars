@@ -1,0 +1,10 @@
+body {
+  margin: 10px;
+}
+#fietsmerken p {
+  color: blue;
+}
+.fietsmerk {
+  /* color: aqua; */
+  font-size: large;
+}
